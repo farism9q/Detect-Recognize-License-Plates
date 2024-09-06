@@ -7,6 +7,7 @@ This project aims to detect and recognize vehicle license plates using YOLOv8 fo
 The primary goal is to create a robust pipeline for detecting and extracting text from license plates in real-time. The following tools are utilized:
 
 YOLOv8: For detecting the bounding boxes of license plates.
+
 Keras OCR and EasyOCR: For optical character recognition to read the detected license plates.
 
 ## Features
